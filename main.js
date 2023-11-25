@@ -21,7 +21,7 @@ const audioFiles = [
       // Create button
       const button = document.createElement('button');
       button.type = 'button';
-      button.className = 'exp no-border btn btn-outline-primary btn-sm';
+      button.className = 'exp no-border btn btn-outline-primary btn-sm shadow-none';
       button.innerText = audio.text;
       button.onclick = () => playAudio(`myAudio${index + 1}`);
 

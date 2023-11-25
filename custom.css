@@ -9,7 +9,3 @@
 .exp{
     padding: 0 !important;
 }
-
-.exp:focus {
-    outline: none !important;
-}
