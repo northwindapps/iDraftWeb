@@ -1,0 +1,15 @@
+.no-border{
+    border-color: transparent !important;
+}
+
+.no-border:hover{
+    background-color: rgba(86, 178, 225, 0.5) !important;
+}
+
+.exp{
+    padding: 0 !important;
+}
+
+.exp:focus {
+    outline: none !important;
+}
