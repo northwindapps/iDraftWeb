@@ -17,7 +17,7 @@ const audioFiles = [
     { src: './audio/15.mp3', text: 'Ja ich weiß ich bin Kims Patenonkel,' },
     { src: './audio/16.mp3', text: 'aber sie hasst mich.' },
     { src: './audio/17.mp3', text: 'Tut sie wohl, ' },
-    { src: './audio/18.mp3', text: 'sie hat‘s mir gesagt und zwar mehrmals.' },
+    { src: './audio/17.mp3', text: 'sie hat‘s mir gesagt und zwar mehrmals.' },
     { src: './audio/19.mp3', text: 'Wann bringst du sie?' },
     { src: './audio/20.mp3', text: 'Sind Sie verletzt?' },
     { src: './audio/21.mp3', text: 'Sind Sie wahnsinnig?' },
